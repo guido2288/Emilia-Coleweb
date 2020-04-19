@@ -1,0 +1,36 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    background-image: url(../img/emilia-home.jpg);
+    background-size: 850px;
+    background-repeat: no-repeat;
+    background-position-x: 450px;
+
+}
+h2 {
+    font-size: 15px;
+    color: gray;
+   
+}
+h1 {
+    background-color: rgba(231, 224, 223, 0.3);
+    position: fixed;
+    bottom: 10PX;
+}
+
+h3 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 8mm;
+    line-height: 5px;
+    color: #666463 
+}
+.nombre {
+    position: absolute;
+    bottom: 8cm;
+}
+.apellido {
+    position: absolute;
+    bottom: 7.2cm;
+}
+
+
